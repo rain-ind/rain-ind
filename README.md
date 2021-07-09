@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rain-ind
+- 👋 Hi, I’m Raja Nithin
 - 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning Data science and machine learning
 - 💞️ I’m looking to collaborate on ...
