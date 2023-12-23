@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Raja Nithin
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning DSA
+- 🌱 I have worked on different tech stacks in software development such as frontend, backend, automation testing and also learning data analysis
 - 📫 How to reach me nitinbatchu15@gmail.com
